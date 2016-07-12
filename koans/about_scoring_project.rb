@@ -30,7 +30,7 @@ require 'edgecase'
 # Your goal is to write the score method.
 
 def score(dice)
-  # You need to write this method
+  0
 end
 
 class AboutScoringAssignment < EdgeCase::Koan
